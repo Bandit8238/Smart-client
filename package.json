@@ -1,0 +1,10 @@
+{
+  "name": "smart-client",
+  "version": "1.0.0",
+  "description": "Simple performance overlay client",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "license": "MIT"
+}
